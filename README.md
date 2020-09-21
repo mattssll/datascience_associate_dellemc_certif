@@ -6,9 +6,8 @@ What you'll find in this repo is:
   <li>R Basics</li>
   <li>Descriptive and Inferential Statistics</li>
   <li>Machine Learning Algorithms (K-Means, Linear Regression, Logistic Regression, Naive Bayes, Text Analysis, etc)</li>
-</ul>
+
 ### The rest of the content of this course/certificate was (you can find the PDF in this repo with the full content)
  <ul>
   <li>Hadoop: HDFS, Yarn, Map Reduce, Pig, Hive</li>
   <li>Advanced SQL (Transact-SQL, )</li>
- </ul> 
