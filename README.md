@@ -1,7 +1,7 @@
 # Data Scientist Associate - Delivered by Dell EMC
 ### The tech stack covered in the course/certificate:
 <img src='techstackdsassociate.png'></img>
-What you'll find in this repo is:
+What you'll find in this repo is (R in Jupyter Notebook):
 <ul>
   <li>R Basics</li>
   <li>Descriptive and Inferential Statistics</li>
